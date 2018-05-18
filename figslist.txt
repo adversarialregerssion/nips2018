@@ -1,0 +1,4 @@
+../summary/conv_psnr_summary_cifar_pixel.csv
+../summary/fcnn_psnr_summary_mnist_l2.csv
+../summary/fcnn_psnr_summary_mnist_linf.csv
+../summary/koala_psnr_summary_stl10_linf.csv

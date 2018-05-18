@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+*.DS_Store
+*.pdf
+*.eps
+*.csv
+*.gz
+*.png
+*.bin
+*.jpg
+*.local
+__pycache__
+*/__pycache__
+models/data/*
+datasets/data/*
